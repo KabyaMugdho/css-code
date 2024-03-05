@@ -1,0 +1,41 @@
+/*This is for font and structure of the website*/
+
+body {
+    font-family: Arial;
+    margin: 0;
+    padding: 0;
+}
+
+/*This is for the color of the top part of the website */
+header {
+    background-color: #2245b8;
+    color: #ffffff;
+    padding: 20px;
+}
+
+/*This is for the size of the line*/
+nav ul li {
+    display: inline;
+    margin-right: 10px;
+}
+
+/*This is for the color of "home, about, and contact" tabs*/
+nav ul li a {
+    color: #ffffff;
+    
+}
+
+/*This is for the size of the window*/
+main {
+    padding: 20px;
+}
+/*this is for the color of the footer. things like the letter color and size.*/
+footer {
+    background-color: #2245b8;
+    color: #ffffff;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
